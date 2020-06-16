@@ -1,0 +1,12 @@
+footer div {
+    width: 25%
+}
+
+footer span {
+    color: red;
+}
+
+footer p {
+    font-size: 1rem;
+    color: white;
+}
